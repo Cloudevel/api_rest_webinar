@@ -1,10 +1,10 @@
 # Presentación y notebooks del webinar sobre desarrollo y consumo de API basadas en REST.
 
-Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del curso cd301 "Introducción a DevOps", de Cloudevel®. Las notebooks de Jupyter se deben ejecutar utilizando el [kernel de Bash](https://github.com/takluyver/bash_kernel).
+Notebooks de [Jupyter](https://jupyter.org) que incluyen los apuntes del webinar sobre desarrollo y consumo de API basadas en REST de Cloudevel®.
 
 ## Nuestra máquina virtual.
 
-Para facilitar la instalación y configuración tanto de Jupyter como del kernel de Bash se recomienda descargar nuestra VM de [Virtualbox](https://virtualbox.org) la cual puede ser descargada desde https://cloudevel.com/downloads/base/view. Una vez que se ejecute la VM podrá acceder a un servidor de Jupyter totalmente funcional ingresando desde el navegador de su equipo en la dirección ```http:localhost:8999``` con la contraseña ```Jupyter```.
+Para facilitar la instalación y configuración de Jupyter se recomienda descargar nuestra VM de [Virtualbox](https://virtualbox.org) la cual puede ser descargada desde https://cloudevel.com/downloads/base/view. Una vez que se ejecute la VM podrá acceder a un servidor de Jupyter totalmente funcional ingresando desde el navegador de su equipo en la dirección ```http:localhost:8999``` con la contraseña ```Jupyter```.
 
 ## Clonación del repositorio.
 
